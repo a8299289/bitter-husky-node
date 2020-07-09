@@ -1,0 +1,292 @@
+{
+  "keys": "E:\\project\\bitter-husky-node\\config\\config.default.js",
+  "sequelize": {
+    "dialect": "E:\\project\\bitter-husky-node\\config\\config.default.js",
+    "database": "E:\\project\\bitter-husky-node\\config\\config.default.js",
+    "host": "E:\\project\\bitter-husky-node\\config\\config.default.js",
+    "port": "E:\\project\\bitter-husky-node\\config\\config.default.js",
+    "username": "E:\\project\\bitter-husky-node\\node_modules\\egg-sequelize\\config\\config.default.js",
+    "password": "E:\\project\\bitter-husky-node\\node_modules\\egg-sequelize\\config\\config.default.js"
+  },
+  "cors": {
+    "origin": "E:\\project\\bitter-husky-node\\config\\config.default.js",
+    "allowMethods": "E:\\project\\bitter-husky-node\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "E:\\project\\bitter-husky-node\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\project\\bitter-husky-node\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\project\\bitter-husky-node\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\project\\bitter-husky-node\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js",
+      "type": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "E:\\project\\bitter-husky-node\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\project\\bitter-husky-node\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\project\\bitter-husky-node\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\project\\bitter-husky-node\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\project\\bitter-husky-node\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\project\\bitter-husky-node\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\project\\bitter-husky-node\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\project\\bitter-husky-node\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\project\\bitter-husky-node\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\project\\bitter-husky-node\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\project\\bitter-husky-node\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "E:\\project\\bitter-husky-node\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\project\\bitter-husky-node\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\project\\bitter-husky-node\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\project\\bitter-husky-node\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\project\\bitter-husky-node\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\project\\bitter-husky-node\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "E:\\project\\bitter-husky-node\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "E:\\project\\bitter-husky-node\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "E:\\project\\bitter-husky-node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "E:\\project\\bitter-husky-node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\project\\bitter-husky-node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\project\\bitter-husky-node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\project\\bitter-husky-node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\project\\bitter-husky-node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\project\\bitter-husky-node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\project\\bitter-husky-node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\project\\bitter-husky-node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\project\\bitter-husky-node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\project\\bitter-husky-node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "E:\\project\\bitter-husky-node\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "E:\\project\\bitter-husky-node\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\project\\bitter-husky-node\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "E:\\project\\bitter-husky-node\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\project\\bitter-husky-node\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\project\\bitter-husky-node\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\project\\bitter-husky-node\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\project\\bitter-husky-node\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\project\\bitter-husky-node\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\project\\bitter-husky-node\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\project\\bitter-husky-node\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\project\\bitter-husky-node\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\project\\bitter-husky-node\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\project\\bitter-husky-node\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "E:\\project\\bitter-husky-node\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "E:\\project\\bitter-husky-node\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\project\\bitter-husky-node\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\project\\bitter-husky-node\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\project\\bitter-husky-node\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "E:\\project\\bitter-husky-node\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "E:\\project\\bitter-husky-node\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\project\\bitter-husky-node\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\project\\bitter-husky-node\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "E:\\project\\bitter-husky-node\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "description": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "private": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "egg-sequelize": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "mysql2": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "factory-girl": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "lodash": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "sequelize-cli": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "dev": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "test": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "cov": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "ci": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "autod": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "sequelize": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "debug": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "logging": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "port": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\project\\bitter-husky-node\\node_modules\\egg\\config\\config.default.js"
+}

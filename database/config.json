@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "root",
+    "password": "jbdsfks520",
+    "database": "bitter_husky",
+    "host": "119.45.52.227",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "jbdsfks520",
+    "database": "bitter_husky",
+    "host": "119.45.52.227",
+    "dialect": "mysql"
+  }
+}
